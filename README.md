@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](/images/screenshot-desktop.JPG)
+![Desktop](/images/screenshot-desktop.JPG =300)
 ![Mobile](/images/screenshot-mobile.jpeg)
 
 ### Links
