@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://wildmarks-passos.github.io/Frontend-Mentor---nft-preview-card-component-main/)
+- Live Site URL: [Here](https://wildmarks-passos.github.io/Frontend-Mentor---nft-preview-card-component-main/)
 
 ## My process
 
